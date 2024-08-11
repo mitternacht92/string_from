@@ -2,6 +2,11 @@
 name = "string_from"
 version = "0.1.0"
 edition = "2021"
+authors = ["Ramon Moraes <mitternacht92.pub@gmail.com>"]
+description = "A three-letter macro for String::from"
+license = "MIT"
+documentation = "https://docs.rs/string_from/latest/string_from/"
+homepage = "https://github.com/mitternacht92/string_from"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
